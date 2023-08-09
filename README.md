@@ -1,2 +1,2 @@
 # hello-world
-Just a random repo
+A repositorie only with hello world function
